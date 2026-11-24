@@ -1,0 +1,6 @@
+{
+  "name": "Sunny Housie",
+  "description": "A cheerful, family-friendly Housie (Tambola and Bingo) web app for hosting and playing together in the browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
